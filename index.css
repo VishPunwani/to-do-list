@@ -32,3 +32,12 @@ img{
     justify-content: center;
     align-items: center;
 }
+
+.mag-search{
+    height: 50px;
+   
+}
+
+input{
+    size: 30px;
+}
